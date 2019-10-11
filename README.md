@@ -1,13 +1,13 @@
 # Linux_interviewing_skills
 Linux面试基本100道题
-
-1. cron 后台常驻程序 (daemon) 用于： 
-A. 负责文件在网络中的共享 
-B. 管理打印子系统
-C. 跟踪管理系统信息和错误 
-D. 管理系统日常任务的调度
-答案：D
-
+<br>
+1. cron 后台常驻程序 (daemon) 用于： <br>
+A. 负责文件在网络中的共享 <br>
+B. 管理打印子系统<br>
+C. 跟踪管理系统信息和错误 <br>
+D. 管理系统日常任务的调度<br>
+答案：D<br>
+<br>
 2. 在大多数Linux发行版本中，以下哪个属于块设备 (block devices) ？ 
 A. 串行口
 B. 硬盘 
